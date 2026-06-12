@@ -6,8 +6,8 @@ A professional, fully responsive, and highly interactive personal portfolio webs
 
 ## Project Deployment Links
 
-* **🌐 View Live Site (GitHub Pages):** [(https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/)](https://bhumi-patre08.github.io/My-Portfolio/)
-* **💻 Source Code Repository:** [(https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)](https://github.com/bhumi-patre08/My-Portfolio.git)
+* **🌐 View Live Site (GitHub Pages):** [Click here](https://bhumi-patre08.github.io/My-Portfolio/)
+* **💻 Source Code Repository:** [Click here](https://github.com/bhumi-patre08/My-Portfolio.git)
 
 ---
 
